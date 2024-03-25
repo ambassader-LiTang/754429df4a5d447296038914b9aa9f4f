@@ -2,11 +2,11 @@
     "format_version": "1.10",
     "minecraft:item": {
         "components": {
-            "minecraft:icon": "tkyhz:bloodwand"
+            "minecraft:icon": "shaojiweapons:bloodwand"
         },
         "description": {
             "category": "Equipment",
-            "identifier": "tkyhz:bloodwand",
+            "identifier": "shaojiweapons:bloodwand",
             "register_to_create_menu": true
         }
     }

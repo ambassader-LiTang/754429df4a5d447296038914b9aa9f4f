@@ -1,7 +1,7 @@
 {
     "resource_pack_name": "vanilla",
     "texture_data": {
-        "tkyhz:bloodwand": {
+        "shaojiweapons:bloodwand": {
             "textures": "textures/items/blood"
         }
     },
