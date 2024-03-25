@@ -1,45 +1,53 @@
 {
-  "Source": "import",
-  "CreateVersion": "2.10.0.577810",
-  "EditVersion": "2.10.0.577810",
-  "OldEditCount": 0,
-  "NewEditCount": 1,
-  "OldComponents": [],
-  "Account": "tanghao_923@163.com",
-  "UserName": "蜡染",
-  "UserId": "111033",
-  "Id": "754429df4a5d447296038914b9aa9f4f",
-  "EditType": 2,
-  "IsMap": false,
-  "CreateNew": true,
-  "CodeEnable": true,
-  "CanPublishResourceComponent": true,
-  "EditName": "试炼场",
-  "GameType": 0,
-  "WorldType": 1,
-  "Seed": "",
-  "BlockNums": [
-    0,
-    0
-  ],
-  "BornPoint": [
-    0,
-    0,
-    0
-  ],
-  "SaveBackMapPath": null,
-  "SaveBackAddOnPath": "D:\\MCStudioDownload\\work\\tanghao_923@163.com\\Cpp\\AddOn\\754429df4a5d447296038914b9aa9f4f",
-  "ResourceIds": [],
-  "EditAddOnPaths": [],
-  "EditMaterialPaths": [],
-  "EditLogFilePath": "D:\\MCStudioDownload\\work\\editor\\edit.log",
-  "ServerName": "EXPR",
-  "StudioPort": 9507,
-  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
-  "ShowGuide": false,
-  "AssertCacheDir": "D:\\MCStudioDownload\\EngineAssert",
-  "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
-  "ShowGpuDriverTips": false,
-  "StudioTempPath": "D:\\MCStudioDownload\\temp\\editorTemp",
-  "EditorResourcePackPath": "D:\\MCStudio\\data\\inner_res"
+    "Account": "llttlefish@163.com",
+    "AssertCacheDir": "D:\\MCStudioDownload\\EngineAssert",
+    "BlockNums": [
+        0,
+        0
+    ],
+    "BornPoint": [
+        0,
+        0,
+        0
+    ],
+    "CanPublishResourceComponent": true,
+    "CodeEnable": true,
+    "CreateNew": true,
+    "CreateVersion": "2.10.0.577810",
+    "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+    "EditAddOnPaths": [
+
+    ],
+    "EditLogFilePath": "D:\\MCStudioDownload\\work\\editor\\edit.log",
+    "EditMaterialPaths": [
+
+    ],
+    "EditName": "weapons",
+    "EditType": 2,
+    "EditVersion": "2.10.0.577810",
+    "EditorResourcePackPath": "D:\\MCStudio\\data\\inner_res",
+    "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+    "GameType": 0,
+    "Id": "c4cd64dd8fad44168218bcdc9a97c2c3",
+    "IsMap": false,
+    "NewEditCount": 5,
+    "OldComponents": [
+
+    ],
+    "OldEditCount": 0,
+    "ResourceIds": [
+
+    ],
+    "SaveBackAddOnPath": "D:\\github_th\\754429df4a5d447296038914b9aa9f4f",
+    "SaveBackMapPath": null,
+    "Seed": "",
+    "ServerName": "EXPR",
+    "ShowGpuDriverTips": false,
+    "ShowGuide": false,
+    "Source": "import",
+    "StudioPort": 10142,
+    "StudioTempPath": "D:\\MCStudioDownload\\temp\\editorTemp",
+    "UserId": "136353",
+    "UserName": "鬼话",
+    "WorldType": 1
 }

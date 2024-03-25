@@ -4,13 +4,29 @@
             "amplifier": 1
         },
         "PackResourceSortData": {
-
+            "2_tkyhz:bloodflower": {
+                "createTime": 1711360762.702956,
+                "modifyTime": 1711360814.260836
+            },
+            "2_tkyhz:bloodwand": {
+                "createTime": 1711360865.4320023,
+                "modifyTime": 1711361291.5602636
+            },
+            "2_tkyhz:toiletpaper": {
+                "createTime": 1711204872.2639606,
+                "modifyTime": 1711369080.8470092
+            }
         },
         "PlayerEffectSetting": {
             "amplifier": 1,
             "duration": 10
         },
         "PresetInstanceTreeData": [
+
+        ]
+    },
+    "UI": {
+        "customPrefabGroupExpand": [
 
         ]
     }

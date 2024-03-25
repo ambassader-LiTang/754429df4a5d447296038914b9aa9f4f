@@ -1,6 +1,6 @@
 {
     "Arena.Component.Namespace": "tkyhz",
-    "FirstTabSetting": 0,
+    "FirstTabSetting": 1,
     "ShortItemSettings": [
         "resource_pack_nsCA9OP2\\ui",
         "behavior_pack_XR8cuVBZ\\Presets",
@@ -9,5 +9,9 @@
         "resource_pack_nsCA9OP2\\effects",
         "resource_pack_nsCA9OP2\\models",
         "resource_pack_nsCA9OP2\\textures"
-    ]
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true
 }
